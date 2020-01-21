@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bpsingh2022/hello/issues"
   },
-  "homepage": "https://github.com/bpsingh2022/hello#readme"
+  "homepage": "https://github.com/bpsingh2022/hello#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
